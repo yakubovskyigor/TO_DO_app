@@ -1,0 +1,10 @@
+pip~=22.0.4
+attrs~=22.1.0
+cryptography~=40.0.1
+Pillow~=10.0.0
+docutils~=0.16
+Jinja2~=3.0.2
+setuptools~=67.6.1
+packaging~=23.1
+platformdirs~=3.10.0
+pymongo~=3.12.0
